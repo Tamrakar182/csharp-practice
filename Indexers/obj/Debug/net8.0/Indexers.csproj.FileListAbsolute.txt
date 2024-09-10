@@ -1,0 +1,14 @@
+G:\projects\csharp\Indexers\bin\Debug\net8.0\Indexers.exe
+G:\projects\csharp\Indexers\bin\Debug\net8.0\Indexers.deps.json
+G:\projects\csharp\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+G:\projects\csharp\Indexers\bin\Debug\net8.0\Indexers.dll
+G:\projects\csharp\Indexers\bin\Debug\net8.0\Indexers.pdb
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.dll
+G:\projects\csharp\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.pdb
+G:\projects\csharp\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+G:\projects\csharp\Indexers\obj\Debug\net8.0\ref\Indexers.dll

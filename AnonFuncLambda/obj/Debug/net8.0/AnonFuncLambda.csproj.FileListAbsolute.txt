@@ -1,0 +1,14 @@
+G:\projects\csharp\AnonFuncLambda\bin\Debug\net8.0\AnonFuncLambda.exe
+G:\projects\csharp\AnonFuncLambda\bin\Debug\net8.0\AnonFuncLambda.deps.json
+G:\projects\csharp\AnonFuncLambda\bin\Debug\net8.0\AnonFuncLambda.runtimeconfig.json
+G:\projects\csharp\AnonFuncLambda\bin\Debug\net8.0\AnonFuncLambda.dll
+G:\projects\csharp\AnonFuncLambda\bin\Debug\net8.0\AnonFuncLambda.pdb
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.AssemblyInfoInputs.cache
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.AssemblyInfo.cs
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.csproj.CoreCompileInputs.cache
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.dll
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\refint\AnonFuncLambda.dll
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.pdb
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\AnonFuncLambda.genruntimeconfig.cache
+G:\projects\csharp\AnonFuncLambda\obj\Debug\net8.0\ref\AnonFuncLambda.dll

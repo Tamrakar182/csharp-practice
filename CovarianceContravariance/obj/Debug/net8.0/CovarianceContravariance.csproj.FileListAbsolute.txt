@@ -1,0 +1,14 @@
+G:\projects\csharp\CovarianceContravariance\bin\Debug\net8.0\CovarianceContravariance.exe
+G:\projects\csharp\CovarianceContravariance\bin\Debug\net8.0\CovarianceContravariance.deps.json
+G:\projects\csharp\CovarianceContravariance\bin\Debug\net8.0\CovarianceContravariance.runtimeconfig.json
+G:\projects\csharp\CovarianceContravariance\bin\Debug\net8.0\CovarianceContravariance.dll
+G:\projects\csharp\CovarianceContravariance\bin\Debug\net8.0\CovarianceContravariance.pdb
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.AssemblyInfoInputs.cache
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.AssemblyInfo.cs
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.csproj.CoreCompileInputs.cache
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.dll
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\refint\CovarianceContravariance.dll
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.pdb
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\CovarianceContravariance.genruntimeconfig.cache
+G:\projects\csharp\CovarianceContravariance\obj\Debug\net8.0\ref\CovarianceContravariance.dll

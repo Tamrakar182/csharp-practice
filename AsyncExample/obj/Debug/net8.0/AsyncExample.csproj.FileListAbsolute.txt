@@ -1,0 +1,14 @@
+g:\projects\csharp\AsyncExample\bin\Debug\net8.0\AsyncExample.exe
+G:\projects\csharp\AsyncExample\bin\Debug\net8.0\AsyncExample.deps.json
+G:\projects\csharp\AsyncExample\bin\Debug\net8.0\AsyncExample.runtimeconfig.json
+g:\projects\csharp\AsyncExample\bin\Debug\net8.0\AsyncExample.dll
+g:\projects\csharp\AsyncExample\bin\Debug\net8.0\AsyncExample.pdb
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.GeneratedMSBuildEditorConfig.editorconfig
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.AssemblyInfoInputs.cache
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.AssemblyInfo.cs
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.csproj.CoreCompileInputs.cache
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.dll
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\refint\AsyncExample.dll
+g:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.pdb
+G:\projects\csharp\AsyncExample\obj\Debug\net8.0\AsyncExample.genruntimeconfig.cache
+G:\projects\csharp\AsyncExample\obj\Debug\net8.0\ref\AsyncExample.dll

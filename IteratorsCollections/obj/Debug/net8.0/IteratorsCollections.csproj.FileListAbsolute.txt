@@ -1,0 +1,14 @@
+G:\projects\csharp\IteratorsCollections\bin\Debug\net8.0\IteratorsCollections.exe
+G:\projects\csharp\IteratorsCollections\bin\Debug\net8.0\IteratorsCollections.deps.json
+G:\projects\csharp\IteratorsCollections\bin\Debug\net8.0\IteratorsCollections.runtimeconfig.json
+G:\projects\csharp\IteratorsCollections\bin\Debug\net8.0\IteratorsCollections.dll
+G:\projects\csharp\IteratorsCollections\bin\Debug\net8.0\IteratorsCollections.pdb
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.AssemblyInfoInputs.cache
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.AssemblyInfo.cs
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.csproj.CoreCompileInputs.cache
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.dll
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\refint\IteratorsCollections.dll
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.pdb
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\IteratorsCollections.genruntimeconfig.cache
+G:\projects\csharp\IteratorsCollections\obj\Debug\net8.0\ref\IteratorsCollections.dll

@@ -1,0 +1,14 @@
+g:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+g:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.AssemblyInfoInputs.cache
+g:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.AssemblyInfo.cs
+g:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.csproj.CoreCompileInputs.cache
+G:\projects\csharp\DecoratorsGenerics\bin\Debug\net8.0\DecoratorsGenerics.exe
+G:\projects\csharp\DecoratorsGenerics\bin\Debug\net8.0\DecoratorsGenerics.deps.json
+G:\projects\csharp\DecoratorsGenerics\bin\Debug\net8.0\DecoratorsGenerics.runtimeconfig.json
+G:\projects\csharp\DecoratorsGenerics\bin\Debug\net8.0\DecoratorsGenerics.dll
+G:\projects\csharp\DecoratorsGenerics\bin\Debug\net8.0\DecoratorsGenerics.pdb
+G:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.dll
+G:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\refint\DecoratorsGenerics.dll
+G:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.pdb
+G:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\DecoratorsGenerics.genruntimeconfig.cache
+G:\projects\csharp\DecoratorsGenerics\obj\Debug\net8.0\ref\DecoratorsGenerics.dll

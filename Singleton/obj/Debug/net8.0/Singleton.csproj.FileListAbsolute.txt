@@ -1,0 +1,14 @@
+G:\projects\csharp\Singleton\bin\Debug\net8.0\Singleton.exe
+G:\projects\csharp\Singleton\bin\Debug\net8.0\Singleton.deps.json
+G:\projects\csharp\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+G:\projects\csharp\Singleton\bin\Debug\net8.0\Singleton.dll
+G:\projects\csharp\Singleton\bin\Debug\net8.0\Singleton.pdb
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.dll
+G:\projects\csharp\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.pdb
+G:\projects\csharp\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+G:\projects\csharp\Singleton\obj\Debug\net8.0\ref\Singleton.dll

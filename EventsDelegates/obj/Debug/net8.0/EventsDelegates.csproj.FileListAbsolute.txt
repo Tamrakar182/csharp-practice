@@ -1,0 +1,14 @@
+G:\projects\csharp\EventsDelegates\bin\Debug\net8.0\EventsDelegates.exe
+G:\projects\csharp\EventsDelegates\bin\Debug\net8.0\EventsDelegates.deps.json
+G:\projects\csharp\EventsDelegates\bin\Debug\net8.0\EventsDelegates.runtimeconfig.json
+G:\projects\csharp\EventsDelegates\bin\Debug\net8.0\EventsDelegates.dll
+G:\projects\csharp\EventsDelegates\bin\Debug\net8.0\EventsDelegates.pdb
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.AssemblyInfoInputs.cache
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.AssemblyInfo.cs
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.csproj.CoreCompileInputs.cache
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.dll
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\refint\EventsDelegates.dll
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.pdb
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\EventsDelegates.genruntimeconfig.cache
+G:\projects\csharp\EventsDelegates\obj\Debug\net8.0\ref\EventsDelegates.dll

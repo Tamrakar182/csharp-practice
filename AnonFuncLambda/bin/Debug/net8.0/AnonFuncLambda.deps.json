@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AnonFuncLambda/1.0.0": {
+        "runtime": {
+          "AnonFuncLambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnonFuncLambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
